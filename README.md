@@ -101,7 +101,8 @@ Todas as instruções abaixo devem ser executadas com o usuário `helios` e não
 
 Baixe o código fonte desse repositório:
 ```bash
-git clone https://github.com/shirlei/helios-server.git
+git clone https://github.com/ifsc/helios-server.git
+
 ```
 
 Não é obrigatório, mas é uma boa prática, criar um ambiente virtual python para a disponibilização do Helios, pois isso permite separar as dependências do projeto e não interferir em outros sistemas na mesma máquina. 
